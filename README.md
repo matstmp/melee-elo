@@ -1,5 +1,5 @@
 # melee-elo
-ELO score data visualization for Super Smash Bros. Melee
+ELO score visualization for competitive Super Smash Bros. Melee
 
 This project aims to make a interactive visualization for the ELO ranking information created by /u/rahsosprout:
 https://www.reddit.com/r/smashbros/comments/76cpy8/ranking_the_top_melee_players_using_elo/
