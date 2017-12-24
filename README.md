@@ -6,7 +6,7 @@ This project aims to make a interactive visualization for the ELO ranking inform
 https://www.reddit.com/r/smashbros/comments/76cpy8/ranking_the_top_melee_players_using_elo/
 
 
-TODO:
+## TODO:
 
 - make zoom only work for chart, make axis scale
 - make filtration by score?
